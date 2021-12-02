@@ -4,7 +4,7 @@
 * What is the framing question of your analysis, or the purpose of the model/system you plan to build? 
 * I want to Predict if tommorow will rain by training classification models on the target variable RainTomorrow. 
 * Who benefits from exploring this question or building this model/system?
-* Service men,farmers ,any person or institues where rain affect there work
+* Service men,farmers ,any person or institues where rain affect their work
 
 #### Data Description:
 * What dataset(s) do you plan to use, and how will you obtain the data?
@@ -24,5 +24,5 @@
 * most likly not, however if additional tools are required ro meet the requirmt then it will be used 
 
 #### MVP Goal:
-* What would a [minimum viable product (MVP)](./mvp.md) look like for this project?
+* What would a minimum viable product (MVP) look like for this project?
 * I hope to prove that there is a possplty to predict with high accurcy the rain baised on the data provided
